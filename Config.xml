@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Config>
+
+	<SYSLOG_SERVER valor="127.0.0.1" />
+	<SYSLOG_SERVER_X valor="192.168.1.109" />
+	<SYSLOG_PORT valor="514" />
+
+</Config>
